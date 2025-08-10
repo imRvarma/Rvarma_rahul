@@ -31,7 +31,7 @@
 - 📚 Constantly exploring **System Design & Advanced JS**  
 - 🌍 Love contributing to **Open Source**  
 - 🎯 Goal: **Top Voice on LinkedIn** + Work in **Product-Based Companies**  
-- ⚡ Fun fact: **I debug faster when coffee is involved ☕**  
+- ⚡ Fun fact: **I debug faster when music is involved ☕**  
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### 🛠 Tech Stack  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,mongodb,mysql,c,cpp,git,figma,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,c,cpp,git,figma" />
 </p>
 
 ---
